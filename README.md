@@ -1,4 +1,4 @@
-# ☸️ Cloud Native Resource Monitoring App on K8s! 🐋**
+# ☸️ Cloud Native Resource Monitoring App on K8s! 🐋
 
 ## 🏛️ Architecture and Demo
 
