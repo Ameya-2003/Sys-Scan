@@ -1,6 +1,6 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
-## Architecture and Demo
+## 🏛️ Architecture and Demo
 
 ![image](https://github.com/Ameya-2003/SysMonitor/assets/133382057/7c8587db-2094-404d-ab79-ec662021ad01)
 
