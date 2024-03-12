@@ -4,8 +4,8 @@
 
 ![image](https://github.com/Ameya-2003/SysMonitor/assets/133382057/7c8587db-2094-404d-ab79-ec662021ad01)
 
-[![Tokenization of Assets(Currencies)](https://img.shields.io/badge/%20CodeDemo-4285F4?)](https://drive.google.com/file/d/1yfLH_mwPBPRBv1E8DNxYDyeZKv5vKI0C/view?usp=sharing)
-[![Tokenization of Assets(Currencies)](https://img.shields.io/badge/Testing-%23363636.svg?)](https://github.com/Ameya-2003/BlockChain/blob/main/Projects/Tokenization%20of%20Assets%20(Currencies).sol)
+[![Tokenization of Assets(Currencies)](https://img.shields.io/badge/%20CodeDemo-4285F4?)](https://drive.google.com/file/d/1-az4_45NxGy_st5XNW_KlxZIuJvsY-FU/view?usp=sharing)
+[![Tokenization of Assets(Currencies)](https://img.shields.io/badge/Testing-%23363636.svg?)](https://drive.google.com/file/d/1fwlhxoZQO8t0D_au-PwrsPc7iJ3GiGOs/view?usp=sharing)
 
 ## 🔍 Key Features:
 
@@ -16,8 +16,6 @@
 🌐 Cloud-native Architecture
 
 📈 Performance Metrics Visualization
-
-🛡 Automated Security Scans
 
 ## **Prerequisites** !
 
