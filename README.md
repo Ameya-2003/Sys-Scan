@@ -1,8 +1,10 @@
 # ☸️ Cloud Native Resource Monitoring App on K8s! 🐋
 
-## 🏛️ Architecture and Demo
+## 🏛️ System Architecture
 
 ![image](https://github.com/Ameya-2003/SysMonitor/assets/133382057/7c8587db-2094-404d-ab79-ec662021ad01)
+
+## 🎬 Demo
 
 [![Tokenization of Assets(Currencies)](https://img.shields.io/badge/%20CodeDemo-4285F4?)](https://drive.google.com/file/d/1-az4_45NxGy_st5XNW_KlxZIuJvsY-FU/view?usp=sharing)
 [![Tokenization of Assets(Currencies)](https://img.shields.io/badge/Testing-%23363636.svg?)](https://drive.google.com/file/d/1fwlhxoZQO8t0D_au-PwrsPc7iJ3GiGOs/view?usp=sharing)
@@ -19,13 +21,17 @@
 
 ## **Prerequisites** !
 
-(Things to have before starting the projects)
+### Things to have before starting the projects
 
--   AWS Account.
--   Programmatic access and AWS configured with CLI.
--   Python3 Installed.
--   Docker and Kubectl installed.
--   Code editor (Vscode)
+🔹  AWS Account.
+
+🔹  Programmatic access and AWS configured with CLI.
+
+🔹  Python3 Installed.
+
+🔹  Docker and Kubectl installed.
+
+🔹  Code editor (Vscode)
 
 # ✨Let’s Start the Project ✨
 
